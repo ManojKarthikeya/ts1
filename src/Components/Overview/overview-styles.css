@@ -1,0 +1,26 @@
+.overview{
+    border-radius: 30px;
+    padding: 30px;
+    background-color: white;
+    /* max-width: 0px; */
+    margin-right: 20px;
+}
+
+.ovtitle{
+    font-size: 30px;
+    font-weight: 900;
+    text-align: left;
+}
+
+.recharts-legend-item-text{
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.recharts-surface{
+    margin-left: 20px;
+}
+
+.chart{
+    align-self: center;
+}

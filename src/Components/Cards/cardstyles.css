@@ -1,0 +1,38 @@
+
+.card{
+    justify-content: space-between;
+    display: flex;
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: white;
+    border-radius: 10px;
+    width: 15%;
+    min-width: fit-content;
+    padding-right: 40px;
+    margin: 10px;
+    margin-bottom: 20px;
+    max-height: 200px;
+}
+
+.cardcat{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.cardcount{
+    margin-top: 15px;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: left;
+}
+
+.cardsvg{
+    align-self: center;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,27 @@
+.orders{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 0px;
+    justify-content: center;
+}
+
+.dheader{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.todaydeliv{
+    max-width: 58vw;
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+}
+
+.dtitle{
+    font-size: 30px;
+    font-weight: 900;
+}

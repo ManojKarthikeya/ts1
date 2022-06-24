@@ -1,0 +1,36 @@
+.App {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: grey;
+}
+
+input {
+  font-family: 'Poppins', sans-serif;
+  border: none; 
+  border: 1px solid grey;
+  border-radius: 10px;
+  font-size: 25px;
+  text-align: left;
+  padding: 2px;
+  padding-left: 10px;
+  color: grey;
+  align-self: flex-end;
+}
+
+input:focus {
+  outline: none
+}
+
+
+.abdy{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: flex-start;
+
+}
+
+.maincont{
+  display: flex;
+  flex-direction: row;
+}

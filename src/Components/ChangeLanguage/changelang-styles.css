@@ -1,0 +1,44 @@
+.cl-closed{
+    cursor: pointer;
+    border-radius: 10px;
+    width: max-content;
+    height: min-content;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #0084fd;
+    margin-left: 5px;
+}
+
+.cl-open{
+    margin-top: 150px;
+    position: fixed;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.language{
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.language:hover{
+    color: #0084fd;
+}
+
+.down-arrowhead{
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+}

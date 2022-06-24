@@ -1,0 +1,17 @@
+.header-icon{
+    fill: white;
+    transform: scale(0.7);
+    padding-right: 5px;
+    /* position: fixed; */
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.hl{
+    display: flex;
+    align-items: center;
+}
